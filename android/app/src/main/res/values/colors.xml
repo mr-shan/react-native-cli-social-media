@@ -1,0 +1,5 @@
+<resources>
+    <color name="darkNavigationBarColor">#000000</color>
+    <color name="lightNavigationBarColor">#FFFFFF</color>
+    <color name="defaultNavigationBarColor">#111111</color> <!-- Optional fallback color -->
+</resources>
